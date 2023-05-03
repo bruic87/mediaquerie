@@ -1,0 +1,9 @@
+.pg {
+    color: chocolate;
+}
+
+@media (max-width: 600px) {
+    .pg {
+        color: cornflowerblue;
+    }
+}
